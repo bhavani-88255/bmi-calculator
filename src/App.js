@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 
-const API = 'http://localhost:5000/api';
+const API = 'https://bmi-backend-production-3651.up.railway.app/api';
 
 // ── Colors ──
 const catInfo = (bmi) => {
